@@ -30,3 +30,25 @@
     position: sticky;
     top: 0px;
 }
+
+
+div{
+    background-color: deeppink;
+    height: 100px;
+}
+
+#op1{
+    opacity: 0.2;
+}
+#op2 {
+    opacity: 0.4;
+}
+#op3 {
+    opacity: 0.6;
+}
+#op4 {
+    opacity: 0.8;
+}
+#op5 {
+    opacity: 1;
+}
